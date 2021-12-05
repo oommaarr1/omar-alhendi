@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello I am Omar Alhendi 👋
 
 
 - 🌱 I’m currently learning ReactJS and NextJS
