@@ -6,6 +6,5 @@
 - 👯 I’m looking to collaborate on great side projects
 - 🤔 I’m looking for internship at savy tech company
 - 💬 Ask me about any tech related stuff
-- 📫 How to reach me: [LinkedIn: @Omar Alhendi](https://www.linkedin.com/in/omar-al-hendi-902754203/), [Email](omar.alhendi2002@gmail.com)
+- 📫 How to reach me: [LinkedIn: @Omar Alhendi](https://www.linkedin.com/in/omar-al-hendi-902754203/), [Email](mailto:omar.alhendi2002@gmail.com)
 - ⚡ Fun fact: I love Crypto & Sports
--
