@@ -1,6 +1,6 @@
 ### Hello I am Omar Alhendi 👋
 
-###I'm a second year CS student majoring Software Engineering in University of Malaya, Malaysia. I am Currently working on several projects. Skilled in HTML, CSS, JAVASCRIPT, React JS, Node JS, Express JS, MongoDB, Firebase, Java.
+###'m a second year CS student majoring Software Engineering in University of Malaya, Malaysia. I am Currently working on several projects. Skilled in HTML, CSS, JAVASCRIPT, React JS, Node JS, Express JS, MongoDB, Firebase, Java.
 
 - 🌱 I’m currently learning ReactJS and NextJS
 - 👯 I’m looking to collaborate on great side projects
